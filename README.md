@@ -33,6 +33,10 @@ I'm an aspiring software developer and data scientist passionate about real-time
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mechantchulo&layout=compact&theme=radical)  
 ![GitHub Stars](https://img.shields.io/github/stars/Mechantchulo?style=social)  
 
+## 🔥 Streak Stats:  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mechantchulo&theme=radical)](https://git.io/streak-stats)  
+
 ## 🏆 Trophies:  
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Mechantchulo&theme=radical&row=1&column=6)  
