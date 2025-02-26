@@ -35,7 +35,8 @@ I'm an aspiring software developer and data scientist passionate about real-time
 
 ## 🔥 Streak Stats:  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?Mechantchulo=DenverCoder1)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mechantchulo&theme=radical)](https://git.io/streak-stats)
+
 
 ## 🏆 Trophies:  
 
