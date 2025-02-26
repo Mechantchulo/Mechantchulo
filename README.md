@@ -35,7 +35,7 @@ I'm an aspiring software developer and data scientist passionate about real-time
 
 ## 🔥 Streak Stats:  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mechantchulo&theme=radical)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?Mechantchulo=Mechantchulo&theme=radical)](https://git.io/streak-stats)  
 
 ## 🏆 Trophies:  
 
