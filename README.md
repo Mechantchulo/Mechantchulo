@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Erick Mutua  
+# 👋 Hi, I'm Erick Mutua
 
-🎯 Aspiring Software Developer & Data Scientist passionate about real-time AI systems and decentralized applications.
+🎯 A passionate Full Stack Developer & Data Scientist driven by building real-time AI systems and smart decentralized solutions.
 
 ---
 
-## 🚀 Languages and Tools  
+## 🚀 Technologies & Tools
+
 <p align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; max-width: 600px; margin: auto;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -14,36 +15,44 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&animation=spin" alt="postman" height="40" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" height="40" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 💡 Highlight Projects
 
-### 🔗 [NeuralBridge](https://github.com/Mechantchulo/NeuralBridge)  
-A Real-Time AI System built using Django + React:  
-- 🎙️ **Speech-to-Text (STT)**  
-- 🔊 **Text-to-Speech (TTS)**  
-- ✋ **Gesture Recognition**  
-- 😊 **Facial Emotion Detection**
+### 🔗 [NeuralBridge](https://github.com/Mechantchulo/NeuralBridge)
 
-### 🌐 [erick-carriers-website](https://github.com/Mechantchulo/erick-carriers-website)  
-A sleek personal portfolio to showcase my work, journey, and resume.
+An interactive real-time AI communication platform using Django + React with:
 
-### 🐍 [python_projects](https://github.com/Mechantchulo/python_projects)  
-From automation scripts to beginner-intermediate utilities – all Python.
+* 🧠 Speech-to-Text & Text-to-Speech
+* 🖐️ Gesture Recognition for interaction
+* 😊 Facial Emotion Detection for emotional context
 
-### 💻 [c-projects](https://github.com/Mechantchulo/c-projects)  
-Practice and learning projects crafted in C.
+### 🌐 [BuildSync](https://github.com/Mechantchulo/BuildSync)
 
-### 🖼️ [Jiji-but-Decentralized](https://github.com/Mechantchulo/Jiji-but-Decentralized)  
-A DApp for showcasing and selling exclusive high-end art collections.
+A role-based Django + React platform for streamlining construction projects with:
+
+* 📂 Document Automation
+* 🤖 Smart AI Matching & Chatbot
+* 🔐 Secure Role Verification (Customer, Fundi, Contractor, etc.)
+
+### 💻 [erick-carriers-website](https://github.com/Mechantchulo/erick-carriers-website)
+
+My interactive portfolio site showcasing projects, resume, and GitHub stats.
+
+### 🐍 [python\_projects](https://github.com/Mechantchulo/python_projects)
+
+A wide range of Python mini-projects and automation scripts.
+
+### 🧠 [Jiji-but-Decentralized](https://github.com/Mechantchulo/Jiji-but-Decentralized)
+
+A secure DApp platform for showcasing and trading luxury digital art collections.
 
 ---
 
@@ -56,7 +65,7 @@ A DApp for showcasing and selling exclusive high-end art collections.
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Streaks & Contributions
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Mechantchulo&theme=radical" />
@@ -64,7 +73,7 @@ A DApp for showcasing and selling exclusive high-end art collections.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies & Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mechantchulo&theme=radical&row=1&column=6" />
@@ -72,10 +81,11 @@ A DApp for showcasing and selling exclusive high-end art collections.
 
 ---
 
-## 📫 Reach Out
+## 📬 Let's Connect
 
-📩 Email: [chulomechant@gmail.com](mailto:chulomechant@gmail.com)
+📧 Email: [chulomechant@gmail.com](mailto:chulomechant@gmail.com)
+💼 LinkedIn: [linkedin.com/in/erick-mutua](https://linkedin.com/in/erick-mutua)
 
 ---
 
-> _“Building real-time systems and decentralized applications with an unshakable passion for AI.”_
+> *“I build scalable, real-time, and AI-powered systems that make life easier, smarter, and more connected.”*
