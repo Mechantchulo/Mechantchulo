@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Erick Mutua
 
-🎯 A passionate Full Stack Developer & Data Scientist driven by building real-time AI systems and smart decentralized solutions.
+🏏 A passionate Full Stack Developer & Data Scientist driven by building real-time AI systems and smart decentralized solutions.
 
 ---
 
@@ -30,7 +30,7 @@
 
 An interactive real-time AI communication platform using Django + React with:
 
-* 🧠 Speech-to-Text & Text-to-Speech
+* 🨠 Speech-to-Text & Text-to-Speech
 * 🖐️ Gesture Recognition for interaction
 * 😊 Facial Emotion Detection for emotional context
 
@@ -84,7 +84,6 @@ A secure DApp platform for showcasing and trading luxury digital art collections
 ## 📬 Let's Connect
 
 📧 Email: [chulomechant@gmail.com](mailto:chulomechant@gmail.com)
-💼 LinkedIn: [linkedin.com/in/erick-mutua](https://linkedin.com/in/erick-mutua)
 
 ---
 
