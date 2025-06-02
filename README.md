@@ -11,7 +11,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/DRF-092E20?style=flat&logo=django&logoColor=white" alt="drf" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
@@ -28,19 +29,19 @@
 
 ### 🔗 [NeuralBridge](https://github.com/Mechantchulo/NeuralBridge)
 
-An interactive real-time AI communication platform using Django + React with:
+An interactive real-time AI communication platform using Django + FastAPI with:
 
-* 🨠 Speech-to-Text & Text-to-Speech
-* 🖐️ Gesture Recognition for interaction
-* 😊 Facial Emotion Detection for emotional context
+* 🨠 Speech-to-Text & Text-to-Speech  
+* 🖐️ Gesture Recognition for interaction  
+* 😊 Facial Emotion Detection for emotional context  
 
 ### 🌐 [BuildSync](https://github.com/Mechantchulo/BuildSync)
 
-A role-based Django + React platform for streamlining construction projects with:
+A role-based Django + FastAPI platform for streamlining construction projects with:
 
-* 📂 Document Automation
-* 🤖 Smart AI Matching & Chatbot
-* 🔐 Secure Role Verification (Customer, Fundi, Contractor, etc.)
+* 📂 Document Automation  
+* 🤖 Smart AI Matching & Chatbot  
+* 🔐 Secure Role Verification (Customer, Fundi, Contractor, etc.)  
 
 ### 💻 [erick-carriers-website](https://github.com/Mechantchulo/erick-carriers-website)
 
