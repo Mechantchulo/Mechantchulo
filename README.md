@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Technologies & Tools
+## ✨ Technologies & Tools
 
 <p align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; max-width: 600px; margin: auto;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -31,17 +31,17 @@
 
 An interactive real-time AI communication platform using Django + FastAPI with:
 
-* 🨠 Speech-to-Text & Text-to-Speech  
-* 🖐️ Gesture Recognition for interaction  
-* 😊 Facial Emotion Detection for emotional context  
+* 🎠 Speech-to-Text & Text-to-Speech
+* 🕐 Gesture Recognition for interaction
+* 😊 Facial Emotion Detection for emotional context
 
 ### 🌐 [BuildSync](https://github.com/Mechantchulo/BuildSync)
 
 A role-based Django + FastAPI platform for streamlining construction projects with:
 
-* 📂 Document Automation  
-* 🤖 Smart AI Matching & Chatbot  
-* 🔐 Secure Role Verification (Customer, Fundi, Contractor, etc.)  
+* 📂 Document Automation
+* 🤖 Smart AI Matching & Chatbot
+* 🔐 Secure Role Verification (Customer, Fundi, Contractor, etc.)
 
 ### 💻 [erick-carriers-website](https://github.com/Mechantchulo/erick-carriers-website)
 
@@ -60,7 +60,7 @@ A secure DApp platform for showcasing and trading luxury digital art collections
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mechantchulo&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mechantchulo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=prs,issues,contribs" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechantchulo&layout=compact&theme=radical" />
 </div>
 
@@ -82,7 +82,7 @@ A secure DApp platform for showcasing and trading luxury digital art collections
 
 ---
 
-## 📬 Let's Connect
+## 📨 Let's Connect
 
 📧 Email: [chulomechant@gmail.com](mailto:chulomechant@gmail.com)
 
