@@ -4,22 +4,30 @@
 
 ---
 
-## ✨ Technologies & Tools
+## 🧰 Tech Stack
 
 <p align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; max-width: 600px; margin: auto;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
   <img src="https://img.shields.io/badge/DRF-092E20?style=flat&logo=django&logoColor=white" alt="drf" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+</p>
+
+---
+
+## 🛠 Tools
+
+<p align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; max-width: 600px; margin: auto;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" height="40" />
 </p>
 
@@ -31,23 +39,23 @@
 
 An interactive real-time AI communication platform using Django + FastAPI with:
 
-* 🎠 Speech-to-Text & Text-to-Speech
-* 🕐 Gesture Recognition for interaction
-* 😊 Facial Emotion Detection for emotional context
+* 🎠 Speech-to-Text & Text-to-Speech  
+* 🕐 Gesture Recognition for interaction  
+* 😊 Facial Emotion Detection for emotional context  
 
 ### 🌐 [BuildSync](https://github.com/Mechantchulo/BuildSync)
 
 A role-based Django + FastAPI platform for streamlining construction projects with:
 
-* 📂 Document Automation
-* 🤖 Smart AI Matching & Chatbot
-* 🔐 Secure Role Verification (Customer, Fundi, Contractor, etc.)
+* 📂 Document Automation  
+* 🤖 Smart AI Matching & Chatbot  
+* 🔐 Secure Role Verification (Customer, Fundi, Contractor, etc.)  
 
 ### 💻 [erick-carriers-website](https://github.com/Mechantchulo/erick-carriers-website)
 
 My interactive portfolio site showcasing projects, resume, and GitHub stats.
 
-### 🐍 [python\_projects](https://github.com/Mechantchulo/python_projects)
+### 🐍 [python_projects](https://github.com/Mechantchulo/python_projects)
 
 A wide range of Python mini-projects and automation scripts.
 
