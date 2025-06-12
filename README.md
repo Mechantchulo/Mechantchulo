@@ -2,16 +2,17 @@
 
 🏏 A passionate Full Stack Developer & Data Scientist driven by building real-time AI systems and smart decentralized solutions.
 
+
+
 ---
 
 ## 🧰 Tech Stack
 
-<p align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; max-width: 600px; margin: auto;">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
   <img src="https://img.shields.io/badge/DRF-092E20?style=flat&logo=django&logoColor=white" alt="drf" height="30"/>
@@ -23,7 +24,7 @@
 
 ## 🛠 Tools
 
-<p align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; max-width: 600px; margin: auto;">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -68,7 +69,7 @@ A secure DApp platform for showcasing and trading luxury digital art collections
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mechantchulo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=prs,issues,contribs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mechantchulo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechantchulo&layout=compact&theme=radical" />
 </div>
 
@@ -92,7 +93,9 @@ A secure DApp platform for showcasing and trading luxury digital art collections
 
 ## 📨 Let's Connect
 
-📧 Email: [chulomechant@gmail.com](mailto:chulomechant@gmail.com)
+- 📧 Email: [chulomechant@gmail.com](mailto:chulomechant@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/erickmutua](https://linkedin.com/in/erickmutua)  
+  
 
 ---
 
