@@ -1,34 +1,36 @@
 # 👋 Hi, I'm Erick Mutua
 
-🏗️ A **Full Stack Developer** & **AI/Data Enthusiast** passionate about building **real-time intelligent systems**, scalable platforms, and decentralized tech that transforms how we interact with the digital world.
+🏗️ A **Full Stack Developer** passionate about building **real-time intelligent systems**, scalable platforms, and decentralized tech that transforms how we interact with the digital world.
+
+---
+
+## 🧠 Skills & Expertise
+
+- ⚙️ Full Stack Web Development with modern frameworks  
+- 🔗 RESTful API Development & Integration  
+- 🛠️ Automation & Scripting  
+- 🔐 Role-based access control & scalable backend architectures  
+- 💾 Database Design & Optimization  
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
-### 🖥️ Languages
+### 🖥️ Languages, Frameworks, and Libraries
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI" />
   <img src="https://img.shields.io/badge/DRF-092E20?style=flat&logo=django&logoColor=white" height="30" alt="Django REST Framework" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases, Tools & Platforms
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
@@ -68,7 +70,7 @@ A decentralized platform for secure luxury digital art exchange, built with smar
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mechantchulo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
@@ -76,14 +78,6 @@ A decentralized platform for secure luxury digital art exchange, built with smar
 </div>
 
 > 📝 *Note: Make sure to push your latest JavaScript projects publicly to reflect JS usage in your language stats.*
-
----
-
-## 🔥 GitHub Streaks
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mechantchulo&theme=radical" />
-</div>
 
 ---
 
@@ -98,7 +92,6 @@ A decentralized platform for secure luxury digital art exchange, built with smar
 ## 📬 Let's Connect
 
 - 📧 Email: [chulomechant@gmail.com](mailto:chulomechant@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/erickmutua](https://linkedin.com/in/erickmutua)
 
 ---
 
