@@ -77,7 +77,7 @@ A decentralized platform for secure luxury digital art exchange, built with smar
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechantchulo&layout=compact&theme=radical" />
 </div>
 
-> 📝 *Note: Make sure to push your latest JavaScript projects publicly to reflect JS usage in your language stats.*
+
 
 ---
 
