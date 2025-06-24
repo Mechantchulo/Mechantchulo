@@ -16,12 +16,13 @@
 
 ## 🧰 Tech Stack & Tools
 
-### 🖥️ Languages, Frameworks, and Libraries
+### 🖥️ Languages, Frameworks & Libraries
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI" />
   <img src="https://img.shields.io/badge/DRF-092E20?style=flat&logo=django&logoColor=white" height="30" alt="Django REST Framework" />
@@ -48,11 +49,11 @@
 - ✋ Gesture Recognition for interactive control  
 - 😊 Emotion Detection to enhance chatbot responses  
 
-### 🌍 [BuildSync](https://github.com/Mechantchulo/BuildSync)
+### 🌍 [BuildSync](https://github.com/Mechantchulo/BuildSync)  
 **An AI-powered construction project manager**  
 - 📄 Document automation & smart verification  
 - 🤖 AI Matching System with integrated chatbot  
-- 🔐 Role-based access for Fundis, Contractors, Clients & more
+- 🔐 Role-based access for Fundis, Contractors, Clients & more  
 
 ### 💼 [erick-carriers-website](https://github.com/Mechantchulo/erick-carriers-website)  
 Interactive **portfolio website** showcasing:  
@@ -77,8 +78,6 @@ A decentralized platform for secure luxury digital art exchange, built with smar
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechantchulo&layout=compact&theme=radical" />
 </div>
 
-
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -91,7 +90,7 @@ A decentralized platform for secure luxury digital art exchange, built with smar
 
 ## 📬 Let's Connect
 
-- 📧 Email: [chulomechant@gmail.com](mailto:chulomechant@gmail.com)  
+- 📧 Email: [chulomechant@gmail.com](mailto:chulomechant@gmail.com)
 
 ---
 
