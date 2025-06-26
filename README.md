@@ -41,33 +41,22 @@
 
 ---
 
-## 🚀 Highlight Projects
+## 🎯 Professional Focus Areas
 
-### 🔗 [NeuralBridge](https://github.com/Mechantchulo/NeuralBridge)
-**A real-time AI communication platform** powered by Django + FastAPI  
-- 🎙️ Speech-to-Text & Text-to-Speech  
-- ✋ Gesture Recognition for interactive control  
-- 😊 Emotion Detection to enhance chatbot responses  
+- **AI-Driven Platforms**  
+  Designing intelligent agents and automation pipelines that enhance human-machine interaction.
 
-### 🌍 [BuildSync](https://github.com/Mechantchulo/BuildSync)  
-**An AI-powered construction project manager**  
-- 📄 Document automation & smart verification  
-- 🤖 AI Matching System with integrated chatbot  
-- 🔐 Role-based access for Fundis, Contractors, Clients & more  
+- **Real-Time Applications**  
+  Building fast, reactive systems using WebSockets and dynamic UIs for seamless user experiences.
 
-### 💼 [erick-carriers-website](https://github.com/Mechantchulo/erick-carriers-website)  
-Interactive **portfolio website** showcasing:  
-- Personal resume and GitHub highlights  
-- Project highlights and live previews  
+- **System Integration**  
+  Creating modular APIs and backend services that connect diverse platforms and technologies.
 
-### 🐍 [python_projects](https://github.com/Mechantchulo/python_projects)  
-Hands-on Python scripts and experiments covering:  
-- Automation  
-- Mini-projects  
-- Script-based utilities  
+- **Secure Architecture**  
+  Implementing role-based access control and protecting sensitive systems with strong data integrity.
 
-### 💎 [Jiji-but-Decentralized](https://github.com/Mechantchulo/Jiji-but-Decentralized)  
-A decentralized platform for secure luxury digital art exchange, built with smart contract concepts.
+- **Tech-Driven Social Impact**  
+  Developing solutions that foster decentralization, transparency, and inclusive innovation.
 
 ---
 
@@ -76,14 +65,6 @@ A decentralized platform for secure luxury digital art exchange, built with smar
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mechantchulo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechantchulo&layout=compact&theme=radical" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mechantchulo&theme=radical&row=1&column=6" />
 </div>
 
 ---
