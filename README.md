@@ -1,16 +1,18 @@
 # 👋 Hi, I'm Erick Mutua
 
-🏗️ A **Full Stack Developer** passionate about building **real-time intelligent systems**, scalable platforms, and decentralized tech that transforms how we interact with the digital world.
+🧑‍💻 A **Backend Developer** passionate about building **real-time intelligent systems**, **automated platforms**, and **decentralized technologies** that transform how we interact with the digital world.
+
+🐍 I love working with **Python** — its simplicity, power, and versatility make it my go-to language for solving complex backend and automation challenges.
 
 ---
 
 ## 🧠 Skills & Expertise
 
-- ⚙️ Full Stack Web Development with modern frameworks  
+- ⚙️ Backend Web Development with modern frameworks  
 - 🔗 RESTful API Development & Integration  
-- 🛠️ Automation & Scripting  
-- 🔐 Role-based access control & scalable backend architectures  
-- 💾 Database Design & Optimization  
+- 🤖 Automation & Intelligent System Design  
+- 🔐 Role-based Access Control & Scalable Architectures  
+- 💾 Database Design, Management & Optimization  
 
 ---
 
@@ -35,7 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40" alt="Postman" />
 </p>
 
@@ -43,20 +44,20 @@
 
 ## 🎯 Professional Focus Areas
 
-- **AI-Driven Platforms**  
-  Designing intelligent agents and automation pipelines that enhance human-machine interaction.
+- **Automation & AI Integration**  
+  Crafting intelligent agents, bots, and workflows to streamline systems and decision-making.
 
-- **Real-Time Applications**  
-  Building fast, reactive systems using WebSockets and dynamic UIs for seamless user experiences.
+- **Real-Time Backend Systems**  
+  Architecting scalable, low-latency applications using WebSockets and efficient data pipelines.
 
-- **System Integration**  
-  Creating modular APIs and backend services that connect diverse platforms and technologies.
+- **Modular APIs & Integration**  
+  Designing clean, maintainable REST APIs that connect services and scale with ease.
 
-- **Secure Architecture**  
-  Implementing role-based access control and protecting sensitive systems with strong data integrity.
+- **Secure & Scalable Architecture**  
+  Implementing RBAC, encryption, and backend design patterns that ensure system reliability and integrity.
 
-- **Tech-Driven Social Impact**  
-  Developing solutions that foster decentralization, transparency, and inclusive innovation.
+- **Tech-Driven Impact**  
+  Building backend solutions that empower transparency, decentralization, and inclusive innovation.
 
 ---
 
