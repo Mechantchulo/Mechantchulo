@@ -63,16 +63,32 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mechantchulo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechantchulo&layout=compact&theme=radical" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mechantchulo&theme=tokyonight" alt="GitHub Summary Card" />
+    </td>
+    <td>
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechantchulo&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mechantchulo&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 📬 Let's Connect
 
 - 📧 Email: [chulomechant@gmail.com](mailto:chulomechant@gmail.com)
+- 💼 LinkedIn: *(Optional: Add your profile link here)*  
+- 🌐 Portfolio: *(Optional: Add your website link here)*
 
 ---
 
