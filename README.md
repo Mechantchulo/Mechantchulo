@@ -16,28 +16,18 @@
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 💻 Tech Stack
 
-### 🖥️ Languages, Frameworks & Libraries
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/DRF-092E20?style=flat&logo=django&logoColor=white" height="30" alt="Django REST Framework" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,django,fastapi,js,react" />
 </p>
 
-### 🗄️ Databases, Tools & Platforms
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40" alt="Postman" />
+---
+
+## 🧰 Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,mysql" />
 </p>
 
 ---
@@ -87,7 +77,7 @@
 ## 📬 Let's Connect
 
 - 📧 Email: [chulomechant@gmail.com](mailto:chulomechant@gmail.com)
-- 💼 LinkedIn: *(Optional: Add your profile link here)*  
+- 💼 LinkedIn: [https://www.linkedin.com/in/erick-mutua-19a076303](https://www.linkedin.com/in/erick-mutua-19a076303)  
 - 🌐 Portfolio: *(Optional: Add your website link here)*
 
 ---
