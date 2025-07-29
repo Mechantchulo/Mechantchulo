@@ -29,6 +29,7 @@
 ### 🌐 Web & APIs  
 <p>
   <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://img.shields.io/badge/DRF-Django%20REST%20Framework-red?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ### 📊 Data & Visualization  
