@@ -15,12 +15,38 @@
 ---
 
 ## 🛠️ Tech Stack  
-**Languages**: Python | Java | JavaScript  
-**Frameworks**: Django | FastAPI | React  
-**Web**: REST APIs | WebSockets | HTML5  
-**Data & Visualization**: NumPy | Matplotlib | Pandas  
-**Databases**: MySQL  
-**Tools**: Git | GitHub | Linux | Bash
+
+### 🧑‍💻 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
+</p>
+
+### ⚙️ Frameworks & Libraries  
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,react" />
+</p>
+
+### 🌐 Web & APIs  
+<p>
+  <img src="https://skillicons.dev/icons?i=html" />
+</p>
+
+### 📊 Data & Visualization  
+<p>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</p>
+
+### 💾 Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🛠️ Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
+</p>
 
 ---
 
@@ -37,8 +63,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mechantchulo&theme=tokyonight" alt="GitHub Summary" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mechantchulo&theme=tokyonight" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechantchulo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
