@@ -1,85 +1,55 @@
-# 👋 Hi, I'm Erick Mutua
+# 👋 Hi, I'm Erick Mutua (@Mechantchulo)
 
-🧑‍💻 A **Backend Developer** passionate about building **real-time intelligent systems**, **automated platforms**, and **decentralized technologies** that transform how we interact with the digital world.
-
-🐍 I love working with **Python** — its simplicity, power, and versatility make it my go-to language for solving complex backend and automation challenges.
-
----
-
-## 🧠 Skills & Expertise
-
-- ⚙️ Backend Web Development with modern frameworks  
-- 🔗 RESTful API Development & Integration  
-- 🤖 Automation & Intelligent System Design  
-- 🔐 Role-based Access Control & Scalable Architectures  
-- 💾 Database Design, Management & Optimization  
+🧑‍💻 Backend Developer | 🧠 AI & Automation Enthusiast | 🔗 WebSocket Architect  
+💡 Passionate about building real-time intelligent systems, decentralized tech, and automation platforms.  
+📚 Currently exploring: Agentic AI, Machine Learning, and Advanced Backend Patterns  
+🤝 Always open to exciting collaborations, impactful tech, and solving real-world challenges.
 
 ---
 
-## 💻 Tech Stack
+## 📫 Reach Me  
+📧 Email: [chulomechant@gmail.com](mailto:chulomechant@gmail.com)  
+💼 LinkedIn: [Erick Mutua](https://www.linkedin.com/in/erick-mutua-19a076303)  
+
+
+---
+
+## 🛠️ Tech Stack  
+**Languages**: Python | Java | JavaScript  
+**Frameworks**: Django | FastAPI | React  
+**Web**: REST APIs | WebSockets | HTML5  
+**Data & Visualization**: NumPy | Matplotlib | Pandas  
+**Databases**: MySQL  
+**Tools**: Git | GitHub | Linux | Bash
+
+---
+
+## 🧠 Focus Areas  
+- 🔄 Real-Time Backend Systems (WebSocket-powered APIs)  
+- 🤖 AI & Automation Integration (Bots, Workflows, Data Pipelines)  
+- 🔐 Scalable & Secure Architectures (RBAC, token systems)  
+- ⚙️ Modular, Maintainable APIs for scalable systems  
+- 🌍 Decentralized & Impactful Tech for inclusive innovation
+
+---
+
+## 📈 GitHub Stats & Analytics  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,django,fastapi,js,react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mechantchulo&theme=tokyonight" alt="GitHub Summary" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mechantchulo&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechantchulo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🧰 Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,mysql" />
-</p>
-
----
-
-## 🎯 Professional Focus Areas
-
-- **Automation & AI Integration**  
-  Crafting intelligent agents, bots, and workflows to streamline systems and decision-making.
-
-- **Real-Time Backend Systems**  
-  Architecting scalable, low-latency applications using WebSockets and efficient data pipelines.
-
-- **Modular APIs & Integration**  
-  Designing clean, maintainable REST APIs that connect services and scale with ease.
-
-- **Secure & Scalable Architecture**  
-  Implementing RBAC, encryption, and backend design patterns that ensure system reliability and integrity.
-
-- **Tech-Driven Impact**  
-  Building backend solutions that empower transparency, decentralization, and inclusive innovation.
-
----
-
-## 📊 GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mechantchulo&theme=tokyonight" alt="GitHub Summary Card" />
-    </td>
-    <td>
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechantchulo&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 GitHub Trophies
-
+## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mechantchulo&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📬 Let's Connect
-
-- 📧 Email: [chulomechant@gmail.com](mailto:chulomechant@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/erick-mutua-19a076303](https://www.linkedin.com/in/erick-mutua-19a076303)  
-- 🌐 Portfolio: *(Optional: Add your website link here)*
-
----
-
-> *“I build scalable, real-time, and AI-powered systems that make life easier, smarter, and more connected.”*
+> *"I build scalable, real-time, and AI-powered systems that make life easier, smarter, and more connected."*
