@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Erick Mutua</h1>
-<h3 align="center">Backend Developer | AI & Automation Specialist | WebSocket Architect</h3>
+<h3 align="center">Backend Developer | Networking Architect | WebSocket Specialist</h3>
 
 <p align="center">
-  Passionate about building <b>real-time systems</b>, <b>scalable backends</b>, and <b>AI-powered automation</b>.
+  Passionate about building <b>real-time systems</b>, <b>scalable backends</b>, and <b>network-aware architectures</b>.
 </p>
 
 ---
@@ -11,14 +11,14 @@
 
 I'm a backend engineer focused on building:
 - Real-time APIs & WebSocket infrastructures  
-- Intelligent automation pipelines powered by AI  
-- Secure, scalable, and cloud-native backend systems  
-- Decentralized technologies for distributed applications
+- Scalable, fault-tolerant backend systems  
+- Secure and performant networking layers for distributed applications  
+- Cloud-native microservices and backend tooling
 
 ### 🎯 Current Focus
-- Building agentic AI systems  
-- Optimizing machine learning workflows  
-- Designing infrastructure for intelligent automation
+- Designing high-performance networked systems  
+- Building distributed backends and real-time services  
+- Exploring AI concepts and how they intersect with backend design
 
 ---
 
@@ -50,11 +50,11 @@ I'm a backend engineer focused on building:
 
 ## 💡 Specializations
 
-- 🔌 **Real-Time Systems** – WebSocket APIs, event-driven design  
-- 🤖 **AI Integration** – LLMs, ML models in production, automation workflows  
+- 🔌 **Real-Time Systems** – WebSocket APIs, event-driven architecture  
+- 🌐 **Networking** – Custom protocol design, socket programming, performance tuning  
 - 🔐 **Security** – OAuth2, RBAC, token-based authentication  
 - ☁️ **Scalability** – Microservices architecture, cloud-native APIs  
-- 🌐 **Decentralized Tech** – Distributed system design patterns
+- 🤖 **AI Enthusiast** – Enjoy studying ML systems & their backend infrastructure
 
 ---
 
@@ -75,7 +75,7 @@ I'm a backend engineer focused on building:
 
 ## 📬 Let's Connect
 
-[![Email](https://img.shields.io/badge/-chulomechant@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chulomechant@gmail.com)
+[![Email](https://img.shields.io/badge/-chulomechant@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chulomechant@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-Erick%20Mutua-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-mutua-19a076303)
 
 ---
@@ -83,7 +83,5 @@ I'm a backend engineer focused on building:
 ## 💭 Mission Statement
 
 > _"I build intelligent backend systems that enable real-time connectivity,  
-> scalable automation, and AI-powered decision-making — making technology  
-> more responsive, efficient, and human-centered."_
-
----
+> efficient networking, and scalable automation — making technology  
+> more responsive, performant, and resilient."_
