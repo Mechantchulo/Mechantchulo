@@ -58,20 +58,6 @@ I'm a backend engineer focused on building:
 
 ---
 
-## 📈 GitHub Highlights
-
-<div align="center">
-
-| <strong>📊 GitHub Analytics</strong> | <strong>🔤 Top Languages</strong> |
-| :---: | :---: |
-| [![Stats](https://github-readme-stats.vercel.app/api?username=Mechantchulo&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mechantchulo&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
-
-### 🏆 GitHub Trophies  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Mechantchulo&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📬 Let's Connect
 
