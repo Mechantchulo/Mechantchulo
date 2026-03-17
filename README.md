@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Erick Mutua</h1>
-<h3 align="center">Backend Developer | Networking Architect | WebSocket Specialist</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
   Passionate about building <b>real-time systems</b>, <b>scalable backends</b>, and <b>network-aware architectures</b>.
@@ -51,7 +51,6 @@ I'm a backend engineer focused on building:
 ## 💡 Specializations
 
 - 🔌 **Real-Time Systems** – WebSocket APIs, event-driven architecture  
-- 🌐 **Networking** – Custom protocol design, socket programming, performance tuning  
 - 🔐 **Security** – OAuth2, RBAC, token-based authentication  
 - ☁️ **Scalability** – Microservices architecture, cloud-native APIs  
 - 🤖 **AI Enthusiast** – Enjoy studying ML systems & their backend infrastructure
