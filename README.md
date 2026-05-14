@@ -15,13 +15,13 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mechantchulo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9"/>
   &nbsp;
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00C2FF&ring=00C2FF&fire=FF9900&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00C2FF&sideLabels=00C2FF&dates=7ec8e3"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mechantchulo&theme=tokyonight&hide_border=true&background=0d1117&stroke=00C2FF&ring=00C2FF&fire=FF9900&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00C2FF&sideLabels=00C2FF&dates=7ec8e3"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechantchulo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&text_color=c9d1d9"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@ I'm a backend engineer focused on building:
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C2FF&line=0a3d62&point=00C2FF&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mechantchulo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C2FF&line=0a3d62&point=00C2FF&area=true"/>
 </p>
 
 ---
@@ -111,7 +111,7 @@ I'm a backend engineer focused on building:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00C2FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Mechantchulo&label=Profile+Views&color=00C2FF&style=for-the-badge" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0a2540,100:0d1117&height=120&section=footer&animation=fadeIn" />
