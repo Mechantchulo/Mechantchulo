@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:00C2FF&height=220&section=header&text=Erick%20Mutua&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20•%20Real-Time%20Systems%20Developer&descAlignY=58&descSize=18&descColor=7ec8e3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=220&section=header&text=Erick%20Mutua&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20•%20Real-Time%20Systems%20Developer&descAlignY=58&descSize=18&descColor=c9d1d9" />
 
 </div>
 
@@ -68,13 +68,11 @@ I enjoy working on backend architectures, distributed systems, networking layers
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mechantchulo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9"/>
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mechantchulo&theme=tokyonight&hide_border=true&background=0d1117&stroke=00C2FF&ring=00C2FF&fire=FF9900&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00C2FF&sideLabels=00C2FF&dates=7ec8e3"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mechantchulo&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechantchulo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&text_color=c9d1d9"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechantchulo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -100,7 +98,7 @@ I enjoy working on backend architectures, distributed systems, networking layers
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mechantchulo&label=Profile+Views&color=00C2FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Mechantchulo&label=Profile+Views&color=grey&style=for-the-badge" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0a2540,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=120&section=footer"/>
