@@ -84,4 +84,3 @@ I enjoy working on backend architectures, distributed systems, networking layers
 > *"I enjoy building backend systems that are fast, scalable, reliable, and designed for real-world performance."*
 
 ---
-
