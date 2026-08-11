@@ -10,7 +10,7 @@ Building scalable backend systems, real-time infrastructure, and cloud-native ap
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 I'm a backend-focused software engineer passionate about designing systems that are:
 
@@ -23,7 +23,7 @@ I enjoy working on backend architectures, distributed systems, networking layers
 
 ---
 
-# 🎯 Current Focus
+#  Current Focus
 
 - Real-time communication systems & WebSockets  
 - Distributed backend architectures  
@@ -41,7 +41,7 @@ I enjoy working on backend architectures, distributed systems, networking layers
   <img src="https://skillicons.dev/icons?i=python,javascript,java,bash" />
 </p>
 
-## ⚙️ Frameworks & Technologies
+## Frameworks & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,react" />
@@ -55,7 +55,7 @@ I enjoy working on backend architectures, distributed systems, networking layers
 
 ---
 
-# 💡 Engineering Interests
+#  Engineering Interests
 
 - 🔌 Real-Time Systems & WebSocket Infrastructure  
 - 🌐 Distributed Systems & Networking  
