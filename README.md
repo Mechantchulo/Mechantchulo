@@ -1,7 +1,12 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=220&section=header&text=Erick%20Mutua&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20•%20Real-Time%20Systems%20Developer&descAlignY=58&descSize=18&descColor=c9d1d9" />
-
+  <img src="./assets/header.svg" width="860" alt="Erick Mutua — Backend Engineer and Real-Time Systems Developer" />
+  <br><br>
+  <img src="./assets/contributions.svg" width="860" alt="Animated GitHub contribution calendar" />
+  <br><br>
+  <table><tr>
+    <td valign="top"><img src="./assets/portrait.svg" width="340" alt="Animated ASCII portrait of Erick Mutua" /></td>
+    <td valign="top"><img src="./assets/info-card.svg" width="490" alt="Profile overview: languages, frameworks and infrastructure" /></td>
+  </tr></table>
 </div>
 
 <h3 align="center">
@@ -84,3 +89,9 @@ I enjoy working on backend architectures, distributed systems, networking layers
 > *"I enjoy building backend systems that are fast, scalable, reliable, and designed for real-world performance."*
 
 ---
+
+### Projects
+
+- **[Ripple MCP](https://github.com/Mechantchulo/Ripple-MCP)** — Project-aware tools for coding agents through MCP.
+- **NeuralBridge** — Assistive AI combining speech, emotion, and gesture capabilities.
+- **CyberSOC** — Security monitoring that turns suspicious web activity into incidents and explanations.
