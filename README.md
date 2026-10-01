@@ -1,8 +1,7 @@
 <div align="center">
   <img src="./assets/header.svg" width="860" alt="Erick Mutua — Backend Engineer and Real-Time Systems Developer" />
   <br><br>
-  <img src="./assets/contributions.svg" width="860" alt="Animated GitHub contribution calendar" />
-  <br><br>
+  
   <table><tr>
     <td valign="top"><img src="./assets/portrait.svg" width="340" alt="Animated ASCII portrait of Erick Mutua" /></td>
     <td valign="top"><img src="./assets/info-card.svg" width="490" alt="Profile overview: languages, frameworks and infrastructure" /></td>
